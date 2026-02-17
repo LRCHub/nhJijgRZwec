@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トーキョーナイトダンサー☆",
+  "base_artist": "’97,Kids",
+  "createdAt": "2026-02-17T02:12:38.463866Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トーキョーナイトダンサー☆",
+      "artist": "'97,Kids",
+      "has_synced": false,
+      "path": "select/pl_01_トーキョーナイトダンサー☆_'97,Kids.txt"
+    }
+  ]
+}
